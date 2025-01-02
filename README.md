@@ -60,18 +60,3 @@ Open `updated_rag_notebook.ipynb` to experiment with the code
 3. **Ask Questions**: Start chatting with your PDF through the chat interface
 4. **Adjust Display**: Use the zoom slider to adjust PDF visibility
 5. **Clean Up**: Use the "Delete Collection" button when switching documents
-
-## 🤝 Contributing
-
-Feel free to:
-- Open issues for bugs or suggestions
-- Submit pull requests
-- Comment on the YouTube video for questions
-- Star the repository if you find it useful!
-
-
-## ⭐️ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tonykipkemboi/ollama_pdf_rag&type=Date)](https://star-history.com/#tonykipkemboi/ollama_pdf_rag&Date)
-
-Built with ❤️ by [Tony Kipkemboi](https://x.com/tonykipkemboi)
